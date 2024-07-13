@@ -25,3 +25,24 @@ h1 {
 .featured {
     background-color: orange; /*lower specificity => canot overite of a*/
 }
+
+.subject {
+    background-color: red;
+}
+
+a:link {
+    color: blue;
+}
+
+.footer {
+    color:  #666;
+    background-color: #ccc;
+    padding: 15px 0;
+    text-align: center;
+    font-size: 14px;;
+}
+
+.footer a {
+    color: inherit;
+    text-decoration: underline;
+}
