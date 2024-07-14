@@ -2,6 +2,11 @@ h1 {
     color: #2f4f4f;
     margin-bottom: 15px;
     background-color: aqua;
+    font-weight: bold; 
+}
+
+.title {
+    font: 32px Hevetica,  Arial, sans-serif;
 }
 
 #main-nav {
