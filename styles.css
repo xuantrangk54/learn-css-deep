@@ -5,6 +5,12 @@ h1 {
     font-weight: bold; 
 }
 
+.padded {
+    background-color: #13a4a4;
+    font-size: 16px;
+    padding: 1em;
+}
+
 .title {
     font: 32px Hevetica,  Arial, sans-serif;
 }
