@@ -13,27 +13,18 @@ main {
     display: block;
 }
 
-.wrapper {
-    margin-left: -1.5em;
-    margin-right: -1.5em;
-}
 
 .container {
-    display: table;
-    width: 50%;
-    border-spacing: 1.5em 0;
-
+    display: flex;
 }
 
 .main {
-   display: table-cell;
    width: 70%;
    background-color: #fff;
    border-radius: .5em;;
 }
 
 .sidebar {
-    display: table-cell;
     padding: 1.5em;
     background-color: red;
     border-radius: .5em;
